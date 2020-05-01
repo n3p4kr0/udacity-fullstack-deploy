@@ -5,7 +5,6 @@ env:
   parameter-store:         
     JWT_SECRET: myjwtsecret
 
-
 phases:
   install:
     commands:
