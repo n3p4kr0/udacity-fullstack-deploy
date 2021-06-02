@@ -24,6 +24,6 @@ rsa==3.4.2
 s3transfer==0.3.3
 six==1.14.0
 typing==3.7.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 Werkzeug==1.0.1
